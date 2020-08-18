@@ -38,7 +38,7 @@ def wish():
     else:
         speak("Good Evening Sir !")
 
-    Assistant_name = ("Clerine")
+    Assistant_name = ("Theressa")
     speak("I am your Assistant")
     speak(Assistant_name)
 
