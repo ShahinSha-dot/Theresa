@@ -1,4 +1,4 @@
-# Clerine
+# Theressa
 
 ## THis a voice assistant built on python </br>
 ### this program could browse internet,tell jokes,interact with you,send emails,take screenshot etc. </br>
